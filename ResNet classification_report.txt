@@ -1,0 +1,10 @@
+Classification Report
+======================
+              precision    recall  f1-score   support
+
+  NonViolent       0.99      0.99      0.99      1920
+     Violent       0.98      0.97      0.97       750
+
+    accuracy                           0.99      2670
+   macro avg       0.98      0.98      0.98      2670
+weighted avg       0.99      0.99      0.99      2670
